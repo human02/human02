@@ -11,4 +11,7 @@
                 alt="LinkedIn Badge" />
         </a>
     </div>
+    <div>
+        <img src="https://komarev.com/ghpvc/?username=human02&style=flat-square&color=blue" alt="" />
+    </div>
 </div>
