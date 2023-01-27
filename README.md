@@ -31,16 +31,16 @@
         title="Ansible" alt="ansible" width="80" height="80" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus"
         alt="Cplusplus" width="70" height="70" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css"
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="css"
         width="60" height="60" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker"
         alt="Docker" width="80" height="80" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="electronJS"
         alt="ElectronJS" width="80" height="80" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg"
-        title="Fastapi" alt="fastapi" width="80" height="80" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="flutter"
-        alt="Flutter" width="60" height="60" />&nbsp;
+        title="FastAPI" alt="fastapi" width="80" height="80" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter"
+        alt="flutter" width="60" height="60" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="git"
         width="70" height="70" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github"
@@ -49,15 +49,15 @@
         width="80" height="80" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg"
         title="Grafana" alt="grafana" width="80" height="80" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg" title="groovy"
+    <img src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg" title="Groovy"
         alt="Groovy" width="80" height="80" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Html" alt="html"
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="html"
         width="60" height="60" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="java"
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java"
         alt="Java" width="80" height="80" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
         title="Javascript" alt="javascript" width="60" height="60" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="jira"
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira"
         alt="Jira" width="80" height="80" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"
         title="Jupyter" alt="jupyter" width="80" height="80" />&nbsp;
@@ -67,22 +67,22 @@
         width="80" height="80" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"
         title="MaterialUI" alt="materialui" width="70" height="70" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/packer/packer-original-wordmark.svg" title="packer"
+    <img src="https://github.com/devicons/devicon/blob/master/icons/packer/packer-original-wordmark.svg" title="Packer"
         alt="Packer" width="80" height="80" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg"
         title="Prometheus" alt="prometheus" width="80" height="80" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python"
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"
         alt="Python" width="80" height="80" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react"
         alt="ReactJS" width="80" height="80" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="spring"
         alt="Spring" width="70" height="70" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg"
-        title="tailwindcss" alt="tailwindcss" width="80" height="80" />&nbsp;
+        title="TailwindCSS" alt="tailwindcss" width="80" height="80" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg"
-        title="terraform" alt="terraform" width="80" height="80" />&nbsp;
+        title="Terraform" alt="terraform" width="80" height="80" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="trello"
-        alt="trello" width="80" height="80" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode"
+        alt="Trello" width="80" height="80" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode"
         alt="vscode" width="80" height="80" />&nbsp;
 </div>
