@@ -24,15 +24,13 @@
 
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
+<div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg"
         title="ansible" alt="ansible" width="80" height="80" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap"
-        alt="bootstrap" width="80" height="80" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus"
         alt="cplusplus" width="80" height="80" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css"
-        width="80" height="80" />&nbsp;
+        width="60" height="60" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker"
         alt="docker" width="80" height="80" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="electronJS"
@@ -40,7 +38,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg"
         title="fastapi" alt="fastapi" width="80" height="80" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="flutter"
-        alt="flutter" width="80" height="80" />&nbsp;
+        alt="flutter" width="60" height="60" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git"
         width="80" height="80" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github"
@@ -52,11 +50,11 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg" title="groovy"
         alt="groovy" width="80" height="80" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html" alt="html"
-        width="80" height="80" />&nbsp;
+        width="60" height="60" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="java"
         alt="java" width="80" height="80" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
-        title="javascript" alt="javascript" width="80" height="80" />&nbsp;
+        title="javascript" alt="javascript" width="60" height="60" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="jira"
         alt="jira" width="80" height="80" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"
