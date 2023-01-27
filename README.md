@@ -3,7 +3,7 @@
         <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" />
     </div>
     <div id="header-bottom" align="center" name="character-gif">
-        <img src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="300">
+        <img src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="275">
     </div>
     <div id="badges">
         <a href="https://www.linkedin.com/in/aarav-chandra/">
@@ -11,7 +11,7 @@
                 alt="LinkedIn Badge" />
         </a>
     </div>
-    <div>
+    <div id="profile-view" align="center" name="profile-view">
         <img src="https://komarev.com/ghpvc/?username=human02&style=flat-square&color=blue" alt="" />
     </div>
 </div>
