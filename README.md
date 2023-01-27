@@ -25,6 +25,8 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+        title="AWS" alt="aws" width="80" height="80" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg"
         title="ansible" alt="ansible" width="80" height="80" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus"
