@@ -88,3 +88,18 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode"
         alt="vscode" width="80" height="80" />&nbsp;
 </div>
+
+---
+
+### :books: Currently Learning
+
+<div id="body1" align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Kafka"
+        alt="kafka" width="80" height="80" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="MongoDB"
+        alt="mongoDB" width="80" height="80" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Rust"
+        alt="rust" width="80" height="80" />&nbsp;
+</div>
+
+---
