@@ -73,7 +73,7 @@
         title="Prometheus" alt="prometheus" width="80" height="80" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"
         alt="Python" width="80" height="80" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="ReactJS"
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS"
         alt="react" width="80" height="80" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring"
         alt="spring" width="70" height="70" />&nbsp;
