@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="styles.css">
-
 <div id="header" align="center">
     <div id="header-top" align="center" name="coder-gif">
         <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" />
@@ -94,12 +92,12 @@
 ### :books: Currently Learning
 
 <div id="body1" align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Kafka"
-        alt="kafka" width="80" height="80" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="MongoDB"
-        alt="mongoDB" width="80" height="80" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Rust"
-        alt="rust" width="80" height="80" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg"
+        title="Kafka" alt="kafka" width="80" height="80" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"
+        title="MongoDB" alt="mongoDB" width="80" height="80" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="rust"
+        width="80" height="80" />&nbsp;
 </div>
 
 ---
