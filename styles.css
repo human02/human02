@@ -1,0 +1,13 @@
+#content {
+    background: rgb(255, 255, 255);
+    color: black;
+}
+
+#content .dark-theme {
+    background: rgb(179, 179, 179);
+    color: white;
+}
+
+#header {
+    background-color: yellow;
+}

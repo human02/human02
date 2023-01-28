@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="styles.css">
+
 <div id="header" align="center">
     <div id="header-top" align="center" name="coder-gif">
         <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" />
@@ -22,8 +24,9 @@
 
 ---
 
+
 ### :hammer_and_wrench: Languages and Tools :
-<div align="center">
+<div id="body1" align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
         title="AWS" alt="aws" width="80" height="80" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg"
@@ -72,7 +75,7 @@
         title="Prometheus" alt="prometheus" width="80" height="80" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"
         alt="Python" width="80" height="80" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS"
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="ReactJS"
         alt="react" width="80" height="80" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring"
         alt="spring" width="70" height="70" />&nbsp;
@@ -85,17 +88,3 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode"
         alt="vscode" width="80" height="80" />&nbsp;
 </div>
-
----
-
-### :books: Currently Learning :
-<div align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg"
-        title="Kafka" alt="kafka" width="80" height="80" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"
-        title="MongoDB" alt="mongoDB" width="80" height="80" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg"
-        title="Rust" alt="rust" width="80" height="80" />&nbsp;
-</div>
-
----
