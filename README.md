@@ -96,7 +96,7 @@
         title="Kafka" alt="kafka" width="80" height="80" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"
         title="MongoDB" alt="mongoDB" width="80" height="80" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="rust"
+    <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain-wordmark.svg" title="FastAPI" alt="rust"
         width="80" height="80" />&nbsp;
 </div>
 
