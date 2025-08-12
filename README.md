@@ -45,12 +45,8 @@
         width="70" height="70" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github"
         alt="github" width="70" height="70" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="go"
-        width="80" height="80" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg"
         title="Grafana" alt="grafana" width="80" height="80" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg" title="Groovy"
-        alt="Groovy" width="80" height="80" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="html"
         width="60" height="60" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java"
@@ -65,8 +61,6 @@
         title="Kubernetes" alt="kubernetes" width="80" height="80" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="linux"
         width="80" height="80" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"
-        title="MaterialUI" alt="materialui" width="70" height="70" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/packer/packer-original-wordmark.svg" title="Packer"
         alt="Packer" width="80" height="80" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg"
