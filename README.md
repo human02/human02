@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <div id="header-top" align="center" name="coder-gif">
-        <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" />
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjBnc3Fpa2F4bWtqcXZqNnc3MHBwdXV3ZDB3ZDh1bjRxdXM4MWdtOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
     </div>
     <div id="header-bottom" align="center" name="character-gif">
         <img src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="275">
