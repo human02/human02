@@ -34,6 +34,8 @@
         alt="docker" width="80" height="80" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="ElectronJS"
         alt="ElectronJS" width="80" height="80" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg"
+        title="Flask" alt="Flask" width="80" height="80" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter"
         alt="flutter" width="60" height="60" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="git"
@@ -58,6 +60,8 @@
         width="80" height="80" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/packer/packer-original-wordmark.svg" title="Packer"
         alt="Packer" width="80" height="80" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg"
+        title="Postman" alt="postman" width="80" height="80" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg"
         title="Prometheus" alt="prometheus" width="80" height="80" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"
@@ -83,10 +87,8 @@
 <div id="body1" align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg"
         title="FastAPI" alt="fastapi" width="80" height="80" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"
-        title="MongoDB" alt="mongoDB" width="80" height="80" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain-wordmark.svg" title="FastAPI" alt="rust"
-        width="80" height="80" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/poetry/poetry-original.svg"
+        title="Poetry" alt="poetry" width="80" height="80" />&nbsp;
 </div>
 
 ---
