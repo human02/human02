@@ -34,8 +34,6 @@
         alt="docker" width="80" height="80" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="ElectronJS"
         alt="ElectronJS" width="80" height="80" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg"
-        title="FastAPI" alt="fastapi" width="80" height="80" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter"
         alt="flutter" width="60" height="60" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="git"
@@ -83,8 +81,8 @@
 ### :books: Currently Learning
 
 <div id="body1" align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg"
-        title="Kafka" alt="kafka" width="80" height="80" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg"
+        title="FastAPI" alt="fastapi" width="80" height="80" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"
         title="MongoDB" alt="mongoDB" width="80" height="80" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain-wordmark.svg" title="FastAPI" alt="rust"
