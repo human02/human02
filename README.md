@@ -34,7 +34,7 @@
         alt="docker" width="80" height="80" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="ElectronJS"
         alt="ElectronJS" width="80" height="80" />&nbsp;
-    <a href = "https://flask.palletsprojects.com/en/stable/"> 
+    <a href = "https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noopener noreferrer"> 
         <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg"
         title="Flask" alt="Flask" width="80" height="80" />&nbsp;
     </a>
