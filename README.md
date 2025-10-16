@@ -34,8 +34,10 @@
         alt="docker" width="80" height="80" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="ElectronJS"
         alt="ElectronJS" width="80" height="80" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg"
+    <a href = "https://flask.palletsprojects.com/en/stable/"> 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg"
         title="Flask" alt="Flask" width="80" height="80" />&nbsp;
+    </a>
     <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter"
         alt="flutter" width="60" height="60" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="git"
