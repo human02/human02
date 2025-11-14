@@ -54,8 +54,6 @@
         title="Javascript" alt="javascript" width="60" height="60" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira"
         alt="Jira" width="80" height="80" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"
-        title="Jupyter" alt="jupyter" width="80" height="80" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg"
         title="Kubernetes" alt="kubernetes" width="80" height="80" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="linux"
