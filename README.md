@@ -22,7 +22,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div id="body1" align="center">
-    <a href="https://docs.aws.amazon.com" target="_blank" rel="noopener noreferrer">
+    <a href="https://docs.aws.amazon.com" target="_blank" rel="noopener">
         <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
         title="AWS" alt="aws" width="80" height="80" />
     </a>&nbsp;
