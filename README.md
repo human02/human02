@@ -141,7 +141,10 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg"
         title="FastAPI" alt="fastapi" width="80" height="80" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/poetry/poetry-original.svg"
-        title="Poetry" alt="poetry" width="80" height="80" />&nbsp;
+        title="UV" alt="uv" width="80" height="80" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/zig/zig-original.svg"
+        title="Zig Language" alt="zig programming language" width="80" height="80" />&nbsp;
+    
 </div>
 
 ---
