@@ -19,7 +19,7 @@
 
 <div align="center">
   
-*I build things that work, break things that don't, and learn everything in between.*
+*I build softwares that work, break the ones that don't, and learn everything in between.*
 
 **Software engineer with a passion for elegant code, impossible deadlines, and the pursuit of perfection.**
 
