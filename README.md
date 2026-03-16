@@ -96,7 +96,7 @@
     <a href="https://docs.pytest.org/en/stable/" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="Pytest"
         alt="Python" width="80" height="80" /></a>&nbsp;
-    <a href="https://react.dev" target="_blank" rel="noopener noreferrer">
+    <a href="https://nextjs.org" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.JS"
         alt="next js" width="80" height="80" /></a>&nbsp;
     <a href="https://react.dev" target="_blank" rel="noopener noreferrer">
