@@ -132,7 +132,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg"
             title="Go Lang" alt="fastapi" width="80" height="80" /></a>&nbsp;
     <a href="https://ziglang.org/" target="_blank" rel="noopener">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/zig/zig-original.svg"
+        <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg"
             title="Zig Language" alt="zig programming language" width="80" height="80" /></a>&nbsp;
     <a href="https://docs.astral.sh/uv/" target="_blank" rel="noopener">
         <img src="https://github.com/devicons/devicon/blob/develop/icons/uv/uv-original.svg"
