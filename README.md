@@ -36,6 +36,12 @@
     <a href="https://docs.ansible.com" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg"
         title="Ansible" alt="ansible" width="80" height="80" /></a>&nbsp;
+    <a href="https://docs.ansible.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg"
+        title="Azure" alt="azure" width="80" height="80" /></a>&nbsp;
+    <a href="https://docs.ansible.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg"
+        title="Azure DevOps" alt="azure devops" width="80" height="80" /></a>&nbsp;
     <a href="https://en.cppreference.com" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"
         alt="Cplusplus" width="70" height="70" /></a>&nbsp;
