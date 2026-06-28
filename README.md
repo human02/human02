@@ -37,10 +37,10 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg"
         title="Ansible" alt="ansible" width="80" height="80" /></a>&nbsp;
     <a href="https://docs.ansible.com" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/azure-original.svg"
+        <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg"
         title="Azure" alt="azure" width="80" height="80" /></a>&nbsp;
     <a href="https://docs.ansible.com" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/azuredevops-original.svg"
+        <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg"
         title="Azure DevOps" alt="azure devops" width="80" height="80" /></a>&nbsp;
     <a href="https://en.cppreference.com" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"
@@ -123,6 +123,9 @@
     <a href="https://code.visualstudio.com" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode"
         alt="vscode" width="80" height="80" /></a>&nbsp;
+    <a href="https://code.visualstudio.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="VSCode"
+        alt="visual studio" width="80" height="80" /></a>&nbsp;
 </div>
 
 
